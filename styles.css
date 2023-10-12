@@ -19,13 +19,6 @@ body {
   border-radius: 50px;
 }
 
-.s2 {
-  width: 250px;
-  height: 250px;
-  margin: 0;
-  padding: 0;
-}
-
 .header {
   display: flex;
   justify-content: space-between;
@@ -66,7 +59,7 @@ a {
   color: white;
 }
 
-.text {
+.text1 {
   display: flex;
   flex-wrap: wrap;
   width: 250px;
@@ -118,4 +111,28 @@ a {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex: 0;
+}
+
+.box {
+  max-width: 350px;
+  flex-wrap: wrap;
+}
+
+.s2 {
+  width: 200px;
+  height: 200px;
+}
+
+.text2 {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
