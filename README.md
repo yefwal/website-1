@@ -1,5 +1,7 @@
 # website-1
 
+brief overview of how I will approach the project
+
 - header
 
   - left: logo
